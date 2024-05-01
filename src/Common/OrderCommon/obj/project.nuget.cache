@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T03gn2FhkKyN7OSSl6wO4QRlh9qsz3ac0cBGW0XEeKPasY6xNALl2zk/pLrCpjgqN8Cwdm6DVPKYp7k7dCyx/w==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Repos\\OrderSystem\\src\\Common\\OrderCommon\\OrderCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabalus\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Gabalus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Gabalus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

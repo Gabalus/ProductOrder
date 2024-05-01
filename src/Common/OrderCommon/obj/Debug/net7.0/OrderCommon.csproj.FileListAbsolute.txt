@@ -1,0 +1,15 @@
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\bin\Debug\net7.0\OrderCommon.deps.json
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\bin\Debug\net7.0\OrderCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\bin\Debug\net7.0\OrderCommon.pdb
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\bin\Debug\net7.0\ServiceCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\bin\Debug\net7.0\ServiceCommon.pdb
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCommon.csproj.AssemblyReference.cache
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCommon.AssemblyInfoInputs.cache
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCommon.AssemblyInfo.cs
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCommon.csproj.CoreCompileInputs.cache
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCom.C906B37C.Up2Date
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\refint\OrderCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\OrderCommon.pdb
+D:\Source\Repos\OrderSystem\src\Common\OrderCommon\obj\Debug\net7.0\ref\OrderCommon.dll

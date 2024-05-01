@@ -1,0 +1,15 @@
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\bin\Debug\net7.0\MessageBroker.deps.json
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\bin\Debug\net7.0\MessageBroker.dll
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\bin\Debug\net7.0\MessageBroker.pdb
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\bin\Debug\net7.0\ServiceCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\bin\Debug\net7.0\ServiceCommon.pdb
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageBroker.csproj.AssemblyReference.cache
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageBroker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageBroker.AssemblyInfoInputs.cache
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageBroker.AssemblyInfo.cs
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageBroker.csproj.CoreCompileInputs.cache
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageB.6D94695A.Up2Date
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageBroker.dll
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\refint\MessageBroker.dll
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\MessageBroker.pdb
+D:\Source\Repos\OrderSystem\src\Common\MessageBroker\obj\Debug\net7.0\ref\MessageBroker.dll

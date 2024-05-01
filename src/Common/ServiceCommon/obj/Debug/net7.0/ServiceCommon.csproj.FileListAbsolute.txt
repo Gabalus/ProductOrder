@@ -1,0 +1,11 @@
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\bin\Debug\net7.0\ServiceCommon.deps.json
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\bin\Debug\net7.0\ServiceCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\bin\Debug\net7.0\ServiceCommon.pdb
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\ServiceCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\ServiceCommon.AssemblyInfoInputs.cache
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\ServiceCommon.AssemblyInfo.cs
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\ServiceCommon.csproj.CoreCompileInputs.cache
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\ServiceCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\refint\ServiceCommon.dll
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\ServiceCommon.pdb
+D:\Source\Repos\OrderSystem\src\Common\ServiceCommon\obj\Debug\net7.0\ref\ServiceCommon.dll
